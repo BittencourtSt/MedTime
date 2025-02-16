@@ -18,7 +18,6 @@ Este projeto utiliza um **Raspberry Pi Pico** para criar um sistema de lembrete 
 - LEDs RGB
 - Buzzer
 - Botões para interação
-- Resistores de pull-up (se necessário)
 - Fonte de alimentação (bateria ou USB)
 
 ## 📦 Configuração
