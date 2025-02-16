@@ -65,6 +65,8 @@ Esses horários podem ser modificados conforme a necessidade do usuário.
 4. Aguarde os alertas de medicamento e pressione o botão para confirmar o consumo.
 5. Verifique os registros no ThingSpeak.
 
+   **ATENÇÃO: O DISPLAY DEMORA DE 8 A 10 SEGUNDOS PARA EFETUAR A INICIALIZAÇÃO!**
+
 ## 🛠 Possíveis Melhorias
 - 📡 Integração com **aplicativos móveis** para alertas via notificações
 - 🔋 **Otimização de energia** para uso com bateria
